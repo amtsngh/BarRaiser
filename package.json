@@ -1,0 +1,25 @@
+{
+  "name": "barraiser",
+  "version": "1.0.0",
+  "description": "Bar Raiser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amtsngh/BarRaiser.git"
+  },
+  "author": "Amit Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amtsngh/BarRaiser/issues"
+  },
+  "homepage": "https://github.com/amtsngh/BarRaiser#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "body-parser": "^1.19.0",
+    "q": "^1.5.1"
+  }
+}
